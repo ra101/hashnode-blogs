@@ -4,6 +4,7 @@ datePublished: Thu Aug 17 2023 14:55:09 GMT+0000 (Coordinated Universal Time)
 cuid: cllfa9jn0000309l8bcjo0ofu
 slug: git-auto-squash
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692284569550/90ef554d-2f54-4e0a-8573-bccb88908720.jpeg
+tags: programming-blogs, github, opensource, git, gitlab
 
 ---
 
