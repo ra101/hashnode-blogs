@@ -1,5 +1,5 @@
 ---
-title: "AI Hallucinations: A Future Full of Misconceptions and Mediocre Code"
+title: "AI Hallucinations: A Future Full of Misconceptions & Mediocre Code"
 datePublished: Sat May 04 2024 19:19:06 GMT+0000 (Coordinated Universal Time)
 cuid: clvshmbgq00000al9ds9a17m2
 slug: ai-hallucinations
