@@ -1,5 +1,5 @@
 ---
-title: "AI Hallucinations: A Future Full of Misconceptions & Mediocre Code"
+title: "AI Hallucinations: A Future Full of Misconceptions and Mediocre Code"
 datePublished: Sat May 04 2024 19:19:06 GMT+0000 (Coordinated Universal Time)
 cuid: clvshmbgq00000al9ds9a17m2
 slug: ai-hallucinations
@@ -33,7 +33,7 @@ We can just hope that any hallucinated or out-of-context/sarcastic reference whi
 
 **BTW, This is what ChatGTP 3.5 has to say about it:**
 
-> \&gt; AI Hallucinations will lead to a mediocre future
+> &gt; AI Hallucinations will lead to a mediocre future
 
 > While AI hallucinations can be intriguing from a research perspective, they don't necessarily imply a "mediocre future" In fact, AI holds immense potential to revolutionize various fields, from healthcare to transportation, and from education to entertainment.
 
