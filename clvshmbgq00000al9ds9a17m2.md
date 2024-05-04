@@ -3,6 +3,7 @@ title: "AI Hallucinations: A Future Full of Misconceptions and Mediocre Code"
 datePublished: Sat May 04 2024 19:19:06 GMT+0000 (Coordinated Universal Time)
 cuid: clvshmbgq00000al9ds9a17m2
 slug: ai-hallucinations
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714851944353/52a4b8c5-a050-4feb-b41c-91e76c2b44fd.jpeg
 tags: ai, productivity, programming-blogs, opensource, chatgpt
 
 ---
